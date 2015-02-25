@@ -1,6 +1,6 @@
 # ember-social
 
-ember-social is a fledgling Ember component library for social sharing widgets. Think Tweet buttons, Facebook like buttons, Linked In share buttons, etc.
+ember-social is a fledgling Ember component library for social sharing widgets. Think Tweet buttons, Facebook like buttons, LinkedIn share buttons, etc.
 
 We welcome contributions. Adding share buttons can be tedious. Let's make it easy for everyone.
 
@@ -25,7 +25,7 @@ The dummy app demonstrates and explains usage quite well.
   * `ember server`
   * Visit your app at http://localhost:4200.
 
-To use in your app, follow the instructions for using ember-cli addons at embercli.com.
+To use in your app, follow the instructions for using ember-cli addons at [ember-cli.com](http://www.ember-cli.com/).
 
 ## Running Tests
 
@@ -40,8 +40,8 @@ For more information on using ember-cli, visit [http://www.ember-cli.com/](http:
 
 ## TODO
 
-* Implement click/share tracking for `{{facebook-like}}`
-* Implement click/share tracking for `{{facebook-facepile}}`
+- [ ] Implement click/share tracking for `{{facebook-like}}`
+- [ ] Implement click/share tracking for `{{facebook-facepile}}`
 
 ## Contributors
 
