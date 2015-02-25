@@ -2,7 +2,7 @@
 
 ember-social is a fledgling Ember component library for social sharing widgets. Think Tweet buttons, Facebook like buttons, Linked In share buttons, etc.
 
-We welcome contributions. Adding share buttons can be a tedious, annoying part of a front-end developers. Let's make this library make it easy for everyone.
+We welcome contributions. Adding share buttons can be tedious. Let's make it easy for everyone.
 
 To install this addon in your ember-cli project, use `npm install ember-social`.
 
