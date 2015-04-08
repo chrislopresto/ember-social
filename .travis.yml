@@ -12,7 +12,7 @@ before_install:
   - "npm install -g npm@^2"
 
 install:
-  - export PATH=/usr/local/phantomjs-2.0/bin/phantomjs:$PATH
+  - export PATH=/usr/local/phantomjs-2.0/bin:$PATH
   - phantomjs -v
   - npm install -g bower
   - npm install
